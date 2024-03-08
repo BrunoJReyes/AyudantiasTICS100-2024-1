@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1709931109.59117 "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" "build/ayudantia_1.pdf" "ayudantia_1" 1709931110.00052 0
+["pdflatex"] 1709931335.97018 "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" "build/ayudantia_1.pdf" "ayudantia_1" 1709931336.35661 0
   "../img/facultad-de-ingenieria-y-ciencias.png" 1709930154.30046 45518 4b83417180ac9e013c5fd5eb55785954 ""
   "/home/bruno/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1709929821.59979 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/home/bruno/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1728.pk" 1709929829.65073 20624 1c880b580ebe545e49ed0d7ec62b07ce ""
@@ -32,9 +32,9 @@
   "/home/bruno/.miktex/texmfs/install/tex/latex/graphics/keyval.sty" 1709929534.1558 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "/home/bruno/.miktex/texmfs/install/tex/latex/graphics/trig.sty" 1709929534.1568 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "/home/bruno/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1709929535.21879 30006 3d512c0edd558928ddea1690180ef77e ""
-  "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" 1709930924.94108 537 c830bbe623fc5c62a3ff0468bebf0015 ""
-  "ayudantia_1.tex" 1709930924.94108 537 c830bbe623fc5c62a3ff0468bebf0015 ""
-  "build/ayudantia_1.aux" 1709931109.87679 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" 1709931335.41122 1331 b4631a611887513e38d49d56097a3595 ""
+  "ayudantia_1.tex" 1709931335.41122 1331 b4631a611887513e38d49d56097a3595 ""
+  "build/ayudantia_1.aux" 1709931336.26521 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   (generated)
   "build/ayudantia_1.aux"
   "build/ayudantia_1.log"

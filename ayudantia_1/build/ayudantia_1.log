@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.3.8)  8 MAR 2024 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.3.8)  8 MAR 2024 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -141,20 +141,20 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1307 strings out of 476392
- 22236 string characters out of 5794485
- 1927187 words of memory out of 5000000
- 23416 multiletter control sequences out of 15000+600000
+ 1308 strings out of 476392
+ 22244 string characters out of 5794485
+ 1929187 words of memory out of 5000000
+ 23417 multiletter control sequences out of 15000+600000
  561752 words of font info for 48 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 57i,6n,65p,246b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,286b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/bruno/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1728
 .pk></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.p
 fb></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 Output written on /home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/bui
-ld/ayudantia_1.pdf (1 page, 82311 bytes).
+ld/ayudantia_1.pdf (1 page, 92119 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
