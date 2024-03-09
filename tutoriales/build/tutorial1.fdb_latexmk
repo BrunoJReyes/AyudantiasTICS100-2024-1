@@ -1,10 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1709943561.26926 "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" "build/ayudantia_1.pdf" "ayudantia_1" 1709943561.57466 0
-  "../img/logo-informatica.jpeg" 1709942732.11389 16469 c3ddac0206df83a1618d2d5c5eec6cd1 ""
+["pdflatex"] 1709942188.48405 "/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/tutorial1.tex" "build/tutorial1.pdf" "tutorial1" 1709942188.88701 2
+  "../img/facultad-de-ingenieria-y-ciencias.png" 1709930154.30046 45518 4b83417180ac9e013c5fd5eb55785954 ""
   "/home/bruno/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1709929821.59979 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "/home/bruno/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1728.pk" 1709929829.65073 20624 1c880b580ebe545e49ed0d7ec62b07ce ""
   "/home/bruno/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1709929827.30775 21052897 b466ef9b98622c95018f831a1a37801a ""
-  "/home/bruno/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1728.tfm" 1709929533.3328 1456 7c9e7368433946dcb45ba0677a622211 ""
   "/home/bruno/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1709929532.64081 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/home/bruno/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm" 1709929532.64181 1524 4414a8315f39513458b80dfc63bff03a ""
   "/home/bruno/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm" 1709929532.64181 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -32,11 +30,11 @@
   "/home/bruno/.miktex/texmfs/install/tex/latex/graphics/keyval.sty" 1709929534.1558 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "/home/bruno/.miktex/texmfs/install/tex/latex/graphics/trig.sty" 1709929534.1568 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "/home/bruno/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def" 1709929535.21879 30006 3d512c0edd558928ddea1690180ef77e ""
-  "/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex" 1709943560.81578 1315 a555afe9fb1e754c884f599ef1a16944 ""
-  "ayudantia_1.tex" 1709943560.81578 1315 a555afe9fb1e754c884f599ef1a16944 ""
-  "build/ayudantia_1.aux" 1709943561.49277 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/tutorial1.tex" 1709942186.95914 561 f92fb9d8e470a9ed9b078e32237ae18d ""
+  "build/tutorial1.aux" 1709942188.76996 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "tutorial1.tex" 1709942186.95914 561 f92fb9d8e470a9ed9b078e32237ae18d ""
   (generated)
-  "build/ayudantia_1.aux"
-  "build/ayudantia_1.log"
-  "build/ayudantia_1.pdf"
+  "build/tutorial1.aux"
+  "build/tutorial1.log"
+  "build/tutorial1.pdf"
   (rewritten before read)

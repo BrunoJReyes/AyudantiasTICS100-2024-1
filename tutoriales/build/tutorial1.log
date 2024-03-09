@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.3.8)  8 MAR 2024 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.3.8)  8 MAR 2024 20:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex
-(/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/ayudantia_1.tex
+**/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/tutorial1.tex
+(/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/tutorial1.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/home/bruno/.miktex/texmfs/install/tex/latex/base/article.cls
@@ -53,9 +53,8 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
 )
-(/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/build/ayudantia_1.au
-x)
-\openout1 = `ayudantia_1.aux'.
+(/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/build/tutorial1.aux)
+\openout1 = `tutorial1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -71,7 +70,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
- (/home/bruno/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+
+(/home/bruno/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count197
 \scratchdimen=\dimen143
@@ -92,70 +92,59 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (/home/bruno/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<../img/logo-informatica.jpeg, id=1, 377.41pt x 155.58125pt>
-File: ../img/logo-informatica.jpeg Graphic file (type jpg)
-<use ../img/logo-informatica.jpeg>
-Package pdftex.def Info: ../img/logo-informatica.jpeg  used on input line 10.
-(pdftex.def)             Requested size: 207.0021pt x 85.33253pt.
+<../img/facultad-de-ingenieria-y-ciencias.png, id=1, 464.937pt x 87.6876pt>
+File: ../img/facultad-de-ingenieria-y-ciencias.png Graphic file (type png)
+<use ../img/facultad-de-ingenieria-y-ciencias.png>
+Package pdftex.def Info: ../img/facultad-de-ingenieria-y-ciencias.png  used on 
+input line 9.
+(pdftex.def)             Requested size: 241.49895pt x 45.5483pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
-
- []
+(Font)              <6> on input line 17.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--28
+/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/tutorial1.tex:23: LaTe
+X Error: There's no line here to end.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 [1
 
-{/home/bruno/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <../img/logo-info
-rmatica.jpeg>]
-(/home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/build/ayudantia_1.au
-x)
+{/home/bruno/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <../img/facultad-
+de-ingenieria-y-ciencias.png>]
+(/home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/build/tutorial1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1308 strings out of 476392
- 22132 string characters out of 5794485
- 1929187 words of memory out of 5000000
- 23417 multiletter control sequences out of 15000+600000
- 561752 words of font info for 48 fonts, out of 8000000 for 9000
+ 1302 strings out of 476392
+ 22144 string characters out of 5794485
+ 1927187 words of memory out of 5000000
+ 23412 multiletter control sequences out of 15000+600000
+ 561412 words of font info for 47 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 57i,6n,65p,286b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/bruno/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1728
-.pk></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/bruno/Documents/ayudantiatics100-2024-1/ayudantia_1/bui
-ld/ayudantia_1.pdf (1 page, 79284 bytes).
+ 57i,6n,65p,243b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/home/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></h
+ome/bruno/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/bruno/Documents/ayudantiatics100-2024-1/tutoriales/buil
+d/tutorial1.pdf (1 page, 84892 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
